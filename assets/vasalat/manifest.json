@@ -1,0 +1,544 @@
+{
+ "note": "STEP -> GLB conversions of the manufacturer fitting models. Units: METRES (the viewer scales by HW_SCALE=1000). Axes: X=width, Y=height, Z=depth. Blum fitting STEPs are natively Y-up and are exported unrotated; the Kessebohmer LeMans/DISPENSA sources are not, and were rotated into this convention. extent_mm is the bounding box in millimetres.",
+ "source_drive_folder": "13ZQXmnzzBW5C4qul0z34YwzTpapoDwCb",
+ "parts": {
+  "378k4002sa-43496264": {
+   "source_step": "Vasalat__378K4002SA_43496264.step",
+   "identical_sources": [
+    "378K4502SA_43496264.step",
+    "378K5002SA_43496264.step"
+   ],
+   "extent_mm": [
+    1.3,
+    29.9,
+    75.7
+   ],
+   "faces": 12,
+   "bytes": 1236
+  },
+  "378k4002sa-48152594": {
+   "source_step": "Vasalat__378K4002SA_48152594.step",
+   "identical_sources": [
+    "378K4502SA_48152594.step",
+    "378K5002SA_48152594.step"
+   ],
+   "extent_mm": [
+    13.0,
+    13.0,
+    30.0
+   ],
+   "faces": 516,
+   "bytes": 10316
+  },
+  "378m4002sa-48308283": {
+   "source_step": "Vasalat__378M4002SA_48308283.step",
+   "identical_sources": [],
+   "extent_mm": [
+    48.6,
+    86.6,
+    400.0
+   ],
+   "faces": 574,
+   "bytes": 11044
+  },
+  "378m4002sa-49018316": {
+   "source_step": "Vasalat__378M4002SA_49018316.step",
+   "identical_sources": [],
+   "extent_mm": [
+    48.6,
+    86.6,
+    400.0
+   ],
+   "faces": 574,
+   "bytes": 11044
+  },
+  "378m4502sa-43251892": {
+   "source_step": "Vasalat__378M4502SA_43251892.step",
+   "identical_sources": [],
+   "extent_mm": [
+    48.6,
+    86.6,
+    450.0
+   ],
+   "faces": 574,
+   "bytes": 11044
+  },
+  "378m4502sa-43469859": {
+   "source_step": "Vasalat__378M4502SA_43469859.step",
+   "identical_sources": [],
+   "extent_mm": [
+    48.6,
+    86.6,
+    450.0
+   ],
+   "faces": 574,
+   "bytes": 11044
+  },
+  "378m5002sa-41367562": {
+   "source_step": "Vasalat__378M5002SA_41367562.step",
+   "identical_sources": [],
+   "extent_mm": [
+    48.6,
+    92.1,
+    500.0
+   ],
+   "faces": 2574,
+   "bytes": 47028
+  },
+  "378m5002sa-41575596": {
+   "source_step": "Vasalat__378M5002SA_41575596.step",
+   "identical_sources": [],
+   "extent_mm": [
+    48.6,
+    92.1,
+    500.0
+   ],
+   "faces": 2574,
+   "bytes": 47024
+  },
+  "dispensa-junior3-300": {
+   "source_step": "Montiert DISPENSA junior III, bodenmontiert, ARENA style 300 mm.stp",
+   "identical_sources": [],
+   "extent_mm": [
+    259.6,
+    608.0,
+    474.0
+   ],
+   "faces": 109798,
+   "bytes": 1972672
+  },
+  "dispensa-junior3-400": {
+   "source_step": "Montiert DISPENSA junior III, bodenmontiert, ARENA style 400 mm.stp",
+   "identical_sources": [],
+   "extent_mm": [
+    359.6,
+    608.0,
+    474.0
+   ],
+   "faces": 134304,
+   "bytes": 2415580
+  },
+  "kline-base-200": {
+   "source_step": "002141 - K-Line base 200 mm.stp",
+   "identical_sources": [],
+   "extent_mm": [
+    168.0,
+    498.1,
+    471.1
+   ],
+   "faces": 170625,
+   "bytes": 3045068
+  },
+  "kline-base-300": {
+   "source_step": "002142 - K-Line base 300 mm.stp",
+   "identical_sources": [],
+   "extent_mm": [
+    268.0,
+    498.1,
+    474.1
+   ],
+   "faces": 174811,
+   "bytes": 3120148
+  },
+  "kline-base-400": {
+   "source_step": "002143 - K-Line base 400 mm.stp",
+   "identical_sources": [],
+   "extent_mm": [
+    368.0,
+    498.1,
+    474.1
+   ],
+   "faces": 144331,
+   "bytes": 2591936
+  },
+  "z30c000s-41201165": {
+   "source_step": "Vasalat__Z30C000S_41201165.step",
+   "identical_sources": [],
+   "extent_mm": [
+    47.4,
+    151.2,
+    19.2
+   ],
+   "faces": 676,
+   "bytes": 13096
+  },
+  "z30c000s-43570762": {
+   "source_step": "Vasalat__Z30C000S_43570762.step",
+   "identical_sources": [],
+   "extent_mm": [
+    47.4,
+    151.2,
+    19.2
+   ],
+   "faces": 676,
+   "bytes": 13100
+  },
+  "z30d000sl-44521499": {
+   "source_step": "Vasalat__Z30D000SL_44521499.step",
+   "identical_sources": [],
+   "extent_mm": [
+    47.4,
+    183.2,
+    20.2
+   ],
+   "faces": 1478,
+   "bytes": 27440
+  },
+  "z30d000sl-47512032": {
+   "source_step": "Vasalat__Z30D000SL_47512032.step",
+   "identical_sources": [],
+   "extent_mm": [
+    47.4,
+    183.2,
+    20.2
+   ],
+   "faces": 1478,
+   "bytes": 27444
+  },
+  "z30k000s-41344152": {
+   "source_step": "Vasalat__Z30K000S_41344152.step",
+   "identical_sources": [],
+   "extent_mm": [
+    47.4,
+    100.2,
+    19.2
+   ],
+   "faces": 528,
+   "bytes": 10460
+  },
+  "z30k000s-42146490": {
+   "source_step": "Vasalat__Z30K000S_42146490.step",
+   "identical_sources": [],
+   "extent_mm": [
+    47.4,
+    100.2,
+    19.2
+   ],
+   "faces": 528,
+   "bytes": 10460
+  },
+  "z30m000s-04-41183467": {
+   "source_step": "Vasalat__Z30M000S.04_41183467.step",
+   "identical_sources": [],
+   "extent_mm": [
+    47.4,
+    68.2,
+    19.2
+   ],
+   "faces": 356,
+   "bytes": 7388
+  },
+  "z30m000s-04-48162180": {
+   "source_step": "Vasalat__Z30M000S.04_48162180.step",
+   "identical_sources": [],
+   "extent_mm": [
+    47.4,
+    68.2,
+    19.2
+   ],
+   "faces": 356,
+   "bytes": 7388
+  },
+  "z31l1036a-45019526": {
+   "source_step": "Vasalat__Z31L1036A_45019526.step",
+   "identical_sources": [],
+   "extent_mm": [
+    1036.3,
+    98.4,
+    23.9
+   ],
+   "faces": 28,
+   "bytes": 1504
+  },
+  "zif-71k0-44145547": {
+   "source_step": "Vasalat__ZIF.71K0_44145547.step",
+   "identical_sources": [],
+   "extent_mm": [
+    65.1,
+    132.6,
+    41.5
+   ],
+   "faces": 76,
+   "bytes": 2396
+  },
+  "zif-71k0-44499875": {
+   "source_step": "Vasalat__ZIF.71K0_44499875.step",
+   "identical_sources": [],
+   "extent_mm": [
+    65.1,
+    132.6,
+    41.5
+   ],
+   "faces": 76,
+   "bytes": 2392
+  },
+  "zif-71k0-46416618": {
+   "source_step": "Vasalat__ZIF.71K0_46416618.step",
+   "identical_sources": [
+    "ZIF.71M0_46416618.step",
+    "ZIF.76C0_46416618.step",
+    "ZIF.76D0_46416618.step"
+   ],
+   "extent_mm": [
+    20.0,
+    7.2,
+    15.0
+   ],
+   "faces": 180,
+   "bytes": 4244
+  },
+  "zif-71m0-43886736": {
+   "source_step": "Vasalat__ZIF.71M0_43886736.step",
+   "identical_sources": [],
+   "extent_mm": [
+    64.5,
+    100.6,
+    41.6
+   ],
+   "faces": 68,
+   "bytes": 2248
+  },
+  "zif-71m0-47195550": {
+   "source_step": "Vasalat__ZIF.71M0_47195550.step",
+   "identical_sources": [],
+   "extent_mm": [
+    64.5,
+    100.6,
+    41.6
+   ],
+   "faces": 68,
+   "bytes": 2248
+  },
+  "zif-76c0-43664742": {
+   "source_step": "Vasalat__ZIF.76C0_43664742.step",
+   "identical_sources": [],
+   "extent_mm": [
+    65.0,
+    182.2,
+    41.6
+   ],
+   "faces": 116,
+   "bytes": 3116
+  },
+  "zif-76c0-49369607": {
+   "source_step": "Vasalat__ZIF.76C0_49369607.step",
+   "identical_sources": [
+    "ZIF.76D0_49369607.step"
+   ],
+   "extent_mm": [
+    10.5,
+    10.5,
+    31.1
+   ],
+   "faces": 156,
+   "bytes": 3832
+  },
+  "zif-76c0-49777492": {
+   "source_step": "Vasalat__ZIF.76C0_49777492.step",
+   "identical_sources": [],
+   "extent_mm": [
+    65.0,
+    182.2,
+    41.6
+   ],
+   "faces": 116,
+   "bytes": 3112
+  },
+  "zif-76d0-47401022": {
+   "source_step": "Vasalat__ZIF.76D0_47401022.step",
+   "identical_sources": [],
+   "extent_mm": [
+    65.0,
+    214.2,
+    41.6
+   ],
+   "faces": 116,
+   "bytes": 3112
+  },
+  "zif-76d0-47434639": {
+   "source_step": "Vasalat__ZIF.76D0_47434639.step",
+   "identical_sources": [],
+   "extent_mm": [
+    65.0,
+    214.2,
+    41.6
+   ],
+   "faces": 116,
+   "bytes": 3116
+  },
+  "zrg-1046z-41138940": {
+   "source_step": "Vasalat__ZRG.1046Z_41138940.step",
+   "identical_sources": [],
+   "extent_mm": [
+    1046.3,
+    20.2,
+    10.2
+   ],
+   "faces": 12,
+   "bytes": 1212
+  },
+  "zrg-207rsic-43239315": {
+   "source_step": "Vasalat__ZRG.207RSIC_43239315.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    260.7
+   ],
+   "faces": 184,
+   "bytes": 4112
+  },
+  "zrg-207rsic-49034505": {
+   "source_step": "Vasalat__ZRG.207RSIC_49034505.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    260.7
+   ],
+   "faces": 184,
+   "bytes": 4116
+  },
+  "zrg-237rsic-41483909": {
+   "source_step": "Vasalat__ZRG.237RSIC_41483909.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    290.7
+   ],
+   "faces": 184,
+   "bytes": 4116
+  },
+  "zrg-237rsic-49332764": {
+   "source_step": "Vasalat__ZRG.237RSIC_49332764.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    290.7
+   ],
+   "faces": 184,
+   "bytes": 4112
+  },
+  "zrg-287rsic-43570111": {
+   "source_step": "Vasalat__ZRG.287RSIC_43570111.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    340.7
+   ],
+   "faces": 184,
+   "bytes": 4112
+  },
+  "zrg-287rsic-46580452": {
+   "source_step": "Vasalat__ZRG.287RSIC_46580452.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    340.7
+   ],
+   "faces": 184,
+   "bytes": 4112
+  },
+  "zrg-337rsic-40124089": {
+   "source_step": "Vasalat__ZRG.337RSIC_40124089.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    390.7
+   ],
+   "faces": 184,
+   "bytes": 4116
+  },
+  "zrg-337rsic-47477593": {
+   "source_step": "Vasalat__ZRG.337RSIC_47477593.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    390.7
+   ],
+   "faces": 184,
+   "bytes": 4112
+  },
+  "zrg-387rsic-42350363": {
+   "source_step": "Vasalat__ZRG.387RSIC_42350363.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    440.7
+   ],
+   "faces": 184,
+   "bytes": 4116
+  },
+  "zrg-387rsic-48292780": {
+   "source_step": "Vasalat__ZRG.387RSIC_48292780.step",
+   "identical_sources": [],
+   "extent_mm": [
+    16.4,
+    25.5,
+    440.7
+   ],
+   "faces": 184,
+   "bytes": 4112
+  },
+  "zrg-437rsic-48440123": {
+   "source_step": "Vasalat__ZRG.437RSIC_48440123.step",
+   "identical_sources": [],
+   "extent_mm": [
+    17.9,
+    25.5,
+    490.7
+   ],
+   "faces": 1054,
+   "bytes": 19680
+  },
+  "lemans-450-left": {
+   "source_step": "235945..235951 - LeMans ARENA classic (Kessebohmer)",
+   "identical_sources": [],
+   "extent_mm": null,
+   "faces": null,
+   "bytes": 3209332
+  },
+  "lemans-450-right": {
+   "source_step": "235945..235951 - LeMans ARENA classic (Kessebohmer)",
+   "identical_sources": [],
+   "extent_mm": null,
+   "faces": null,
+   "bytes": 3209176
+  },
+  "lemans-500-left": {
+   "source_step": "235945..235951 - LeMans ARENA classic (Kessebohmer)",
+   "identical_sources": [],
+   "extent_mm": null,
+   "faces": null,
+   "bytes": 2793376
+  },
+  "lemans-500-right": {
+   "source_step": "235945..235951 - LeMans ARENA classic (Kessebohmer)",
+   "identical_sources": [],
+   "extent_mm": null,
+   "faces": null,
+   "bytes": 3330208
+  },
+  "lemans-600-left": {
+   "source_step": "235945..235951 - LeMans ARENA classic (Kessebohmer)",
+   "identical_sources": [],
+   "extent_mm": null,
+   "faces": null,
+   "bytes": 3000780
+  },
+  "lemans-600-right": {
+   "source_step": "235945..235951 - LeMans ARENA classic (Kessebohmer)",
+   "identical_sources": [],
+   "extent_mm": null,
+   "faces": null,
+   "bytes": 3005348
+  }
+ }
+}
